@@ -22,7 +22,7 @@ int main()
 	uint8_t first_command[3] = {'w', 4, 1}; 
 	uint8_t second_command[3] = {'w', 3, 0}; 
 	uint8_t third_command[3] = {'w', 2, 1};
-	uint8_t fourth_command[2] = {'d', 22};
+	uint8_t fourth_command[2] = {'r', 22};
 	uint8_t fifth_command[3] = {'w', 2, 0};
 
 
